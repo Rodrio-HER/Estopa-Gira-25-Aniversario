@@ -25,7 +25,7 @@ var config = {
             alignment: 'left',
             hidden: false,
             title: '18 / 04 / 24 - VENEZUELA' ,
-            image: './assets/estopa1.jpg',
+            image: './assets/estopa20.jpg',
             description: '<b>POLIEDRO DE CARACAS - CARACAS<br>| Complejo deportivo | 10.000 espectadores | </b> <br> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ut arcu at nunc vulputate ullamcorper. Interdum et malesuada fames ac ante ipsum primis in faucibus.',
             location: {
                 center: [-66.93850, 10.43372],
@@ -55,7 +55,7 @@ var config = {
             alignment: 'left',
             hidden: false,
             title: '21 / 04 / 24 - EE. UU.' ,
-            image: './assets/estopa2.jpg',
+            image: './assets/estopa22.jpg',
             description: '<b>HARD ROCK LIVE - MIAMI<br>| Sala de conciertos | 7.000 espectadores | </b> <br> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ut arcu at nunc vulputate ullamcorper. Interdum et malesuada fames ac ante ipsum primis in faucibus.',
             location: {
                 center: [-80.2116126, 26.0523003],
@@ -85,7 +85,7 @@ var config = {
             alignment: 'left',
             hidden: false,
             title: '24 / 04 / 24 - PERÚ' ,
-            image: './assets/estopa3.jpg',
+            image: './assets/estopa15.jpg',
             description: '<b>COSTA 21 - LIMA<br>| Espacio al aire libre | 6.600 espectadores | </b> <br> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ut arcu at nunc vulputate ullamcorper. Interdum et malesuada fames ac ante ipsum primis in faucibus.',
             location: {
                 center: [-77.07979656764755, -12.095480653409922],
